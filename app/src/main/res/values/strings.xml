@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsAppKotlin</string>
+    <string name="title_news_detail">Judul Detail</string>
+    <string name="author_news_detail">kumparanSAINS</string>
+    <string name="desc_news_detail">Majelis hakim berpendapat, berdasarkan fakta-fakta di persidangan bahwa Fitriani terbukti meminjam uang kepada terdakwa sebesar Rp 70 juta.</string>
+    <string name="date">2020-10-07T00:11:00Z</string>
+    <string name="content_list">Judul Berita</string>
+</resources>
